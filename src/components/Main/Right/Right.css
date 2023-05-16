@@ -1,0 +1,5 @@
+.right {
+  width: calc(116px + (100% - 2 * 116px) / 3);
+  height: calc(100vh - 116px);
+  background-color: #DEDEDE;
+}

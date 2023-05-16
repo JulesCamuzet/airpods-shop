@@ -1,0 +1,20 @@
+{
+  "pink": {
+    "person": "https://www.apple.com/v/airpods-max/e/images/overview/design_comfort__f5gwnm9e6ci2_small.jpg",
+    "jack": "https://www.apple.com/v/airpods-max/e/images/overview/design_foam__gndv3rgud4ya_small.jpg",
+    "front": "https://www.kamera-express.fr/media/a240a63e-4dd7-46c2-b768-b4419741b505/apple-airpods-max-roze.jpg.png",
+    "side": "https://www.apple.com/newsroom/images/product/airpods/standard/apple_airpods-max_color-red_12082020_carousel.jpg.large.jpg"
+  },
+  "green": {
+    "person": "https://www.apple.com/v/airpods-max/e/images/overview/audio_quality_eq__bw20hke6z1ea_xlarge.jpg",
+    "jack": "https://www.apple.com/v/airpods-max/e/images/overview/audio_quality_noise_cancellation__bly3c9di4wwi_xlarge.jpg",
+    "front": "https://www.apple.com/v/airpods-max/e/images/overview/design_colors_green_front__cqpeugza9as2_xlarge.jpg",
+    "side": "https://www.apple.com/newsroom/images/product/airpods/standard/apple_airpods-max_color-green_12082020_carousel.jpg.large.jpg"
+  },
+  "white": {
+    "person": "https://image.son-video.com/images/article/apple/APPLAIRPMAXSR/airpods-max-argent_5fd0a1e95e12b_900.jpg",
+    "jack": "https://www.apple.com/v/airpods-max/e/images/overview/router_engraving__e8k6lcdki8q6_xlarge.jpg",
+    "front": "https://www.apple.com/v/airpods-max/e/images/overview/design_colors_silver_front__g8c839jaldqy_xlarge.jpg",
+    "side": "https://www.apple.com/newsroom/images/product/airpods/standard/apple_airpods-max_color-white_12082020_carousel.jpg.large.jpg"
+  }
+}
