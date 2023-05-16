@@ -8,7 +8,7 @@
 .person {
   width: 55%;
   height: 50%;
-  object-fit: none;
+  object-fit: cover;
   object-position: 50% 40%;
 }
 

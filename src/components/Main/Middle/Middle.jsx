@@ -7,7 +7,7 @@ const Middle = (props) => {
   const setColor = props.setColor;
   return (
     <div className="middle">
-      <ColorSelector setColor={setColor} />
+      <ColorSelector setColor={setColor} color={color} />
       <img src={ImgRef[color].person} alt="person-pic" className="person" />
       <div className="side-pic-container">
         <img src={ImgRef[color].side} alt="" className="side-pic" />
